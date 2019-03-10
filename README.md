@@ -8,11 +8,11 @@ Crowdfunding has become one of the most popular funding techniques that start-up
 
 •	After performing the exploratory data analysis, I realized the following factors to have an impact on probability of a project successfully receiving funds via Kickstarter:
 
-     o	The month of launch of the campaign; the campaign has a higher success rate in February, March and April and have a lesser        success rate in July and December.
+     oThe month of launch of the campaign; the campaign has a higher success rate in February, March and April and have a lesser        success rate in July and December.
      
-     o	The main category of the product; some of the categories have a higher success rate.
+     oThe main category of the product; some of the categories have a higher success rate.
      
-     o	Country of the campaign; US seems to have a higher success rate than other countries
+     oCountry of the campaign; US seems to have a higher success rate than other countries
      
 •Used linear regression and correlation plots to establish a relationship between number of backers, goal amount and pledged amount. We were able to come with a strong relation between log of number of backers and log of pledged amount
 
