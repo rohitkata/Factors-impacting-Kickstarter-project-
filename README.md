@@ -1,5 +1,5 @@
 # rohitkata.github.io_1
-Repository for academic projects
+
 Problem statement: 
 Crowdfunding has become one of the most popular funding techniques that start-ups utilize. However the probability of successfully raising funds through crowdfunding is still quite uncertain. If the start-ups can know the factors that impact the probability of successfully collecting the goal amount, they could tweak their campaign or business model and in turn increase their chances of success. That is what we aim to do through this project. We want to understand what factors impact the success and if we can come up with a model that can be used to predict the probability of success
 Summary and Conclusion
