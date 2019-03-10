@@ -1,8 +1,10 @@
-# rohitkata.github.io_1
+# Factors impacting the success rate of a crowdfunding campaign on Kickstarter
 
-Problem statement: 
+## Problem statement:
+
 Crowdfunding has become one of the most popular funding techniques that start-ups utilize. However the probability of successfully raising funds through crowdfunding is still quite uncertain. If the start-ups can know the factors that impact the probability of successfully collecting the goal amount, they could tweak their campaign or business model and in turn increase their chances of success. That is what we aim to do through this project. We want to understand what factors impact the success and if we can come up with a model that can be used to predict the probability of success
-Summary and Conclusion
+
+## Summary and Conclusion
 
 •	After performing the exploratory data analysis, I realized the following factors to have an impact on probability of a project successfully receiving funds via Kickstarter:
      o	The month of launch of the campaign; the campaign has a higher success rate in February, March and April and have a lesser success rate in July and December.
